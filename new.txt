@@ -1,0 +1,4 @@
+echo "Practicing makes perfect"
+echo "I know one day I will get a good job and thank God"
+
+echo "The day is very soon"
