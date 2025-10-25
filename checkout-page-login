@@ -1,0 +1,3 @@
+echo "The checkout page needs an update"
+read -p $checkout
+
