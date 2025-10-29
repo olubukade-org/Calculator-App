@@ -5,7 +5,3 @@
  echo "I love you Lord, the owner of my soul"
 
  pwd
-
- mkdir abiolao
-
- touch bukky > abiolao
