@@ -1,0 +1,15 @@
+#!/bin/bas
+
+echo -n "Please enter the directory name"
+
+read directory
+
+sudo mkdir $directory
+
+git init $(pwd)/$directory
+
+echo "git repository"
+
+ls -a $directory | grep .git
+
+echo "ABBY 4 SHORT"
